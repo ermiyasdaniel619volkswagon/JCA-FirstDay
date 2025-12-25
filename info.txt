@@ -1,0 +1,2 @@
+My learning goal is to utilize Git and GitHub in a professional manner within a web development environment.
+javascript
